@@ -436,7 +436,7 @@ position: relative;
 .section-contacts_container::before {
     content: '';
 position: absolute;
-background: url(../img/tomatos.jpg) no-repeat;
+background: url(/tomatos.jpg) no-repeat;
 background-size: cover;
 width: 672px;
 height: 397px;
