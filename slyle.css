@@ -28,7 +28,7 @@ body {
 
 .section-top {
     height: 100vh;
-    background: #121318 url(/bg.jpg) no-repeat center;
+    background: #121318 url(bg.jpg) no-repeat center;
     background-size: cover;
     color: #ffffff;
 display: flex;
