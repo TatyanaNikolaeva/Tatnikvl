@@ -28,7 +28,7 @@ body {
 
 .section-top {
     height: 100vh;
-    background: #121318 url(../img/bg.jpg) no-repeat center;
+    background: #121318 url(../img/bg.webp) no-repeat center;
     background-size: cover;
     color: #ffffff;
 display: flex;
@@ -436,7 +436,7 @@ position: relative;
 .section-contacts_container::before {
     content: '';
 position: absolute;
-background: url(../img/tomatos.jpg) no-repeat;
+background: url(../img/tomatos.webp) no-repeat;
 background-size: cover;
 width: 672px;
 height: 397px;
